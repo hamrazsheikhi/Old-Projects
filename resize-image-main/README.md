@@ -12,4 +12,4 @@ In today's digital age, resizing images has become an essential task for many ap
 - Maintain aspect ratio to prevent distortion.
 - Support for various image formats, including JPEG, PNG, and GIF.
 - Simple and intuitive user interface.
-- Fast and efficient resizing process.
+- Fast and efficient resizing image process.
